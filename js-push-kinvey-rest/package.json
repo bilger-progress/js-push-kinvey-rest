@@ -1,0 +1,29 @@
+{
+  "name": "js-push-kinvey-rest",
+  "version": "1.0.0",
+  "description": "Kinvey Push Notifications within a JS project using the REST API of Kinvey.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bilger-progress/js-push-kinvey-rest.git"
+  },
+  "keywords": [
+    "Kinvey",
+    "REST",
+    "Push",
+    "Notifications",
+    "JS"
+  ],
+  "author": "Bilger Yahov @ Kinvey by Progress",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bilger-progress/js-push-kinvey-rest/issues"
+  },
+  "homepage": "https://github.com/bilger-progress/js-push-kinvey-rest#readme",
+  "dependencies": {
+    "express": "4.16.4"
+  }
+}
